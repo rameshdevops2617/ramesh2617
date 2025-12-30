@@ -23,30 +23,26 @@ I enjoy building **real-world DevOps projects**, optimizing systems for reliabil
 ## 🛠️ Tech Stack & Tools
 
 ### ☁️ Cloud
-- :contentReference[oaicite:0]{index=0} (EC2, VPC, IAM, ELB, Auto Scaling, RDS, CloudWatch)
+- AWS (EC2, VPC, IAM, ELB, Auto Scaling, RDS, CloudWatch, Route53, EKS)
 
 ### 🐳 Containers & Orchestration
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}
+- Docker
+- Kubernetes
 
 ### 🔁 CI/CD & GitOps
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
-- :contentReference[oaicite:5]{index=5}
+- Jenkins
+- GitHub Actions
+- Argo CD
 
 ### 🏗️ Infrastructure as Code & Automation
-- :contentReference[oaicite:6]{index=6}  
-- :contentReference[oaicite:7]{index=7}  
-- :contentReference[oaicite:8]{index=8}
+- Terraform
+- AWS CloudFormation
+- Ansible
 
 ### 📈 Monitoring & Observability
-- :contentReference[oaicite:9]{index=9}  
-- :contentReference[oaicite:10]{index=10}  
-- :contentReference[oaicite:11]{index=11}
-
-### 🧠 Databases (Ops Experience)
-- :contentReference[oaicite:12]{index=12}  
-- :contentReference[oaicite:13]{index=13}
+- Prometheus
+- Grafana
+- cloudwatch
 
 ---
 
