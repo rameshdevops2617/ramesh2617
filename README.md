@@ -84,7 +84,7 @@ I enjoy building **real-world DevOps projects**, optimizing systems for reliabil
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ramesh-devops  
 - 📧 Email: rameshdevops2617@gmail.com  
-- 🌐 GitHub: https://github.com/ramesh2617  
+- 🌐 GitHub: https://github.com/rameshdevops2617 
 
 ---
 
